@@ -3,7 +3,7 @@
 * Tipos
 ```rust
 let a: i32 = 42;
-let b: f64  1.0;
+let b: f64 = 1.0;
 println!("{}", a + b); // A e B não são do mesmo tipo
 ```
 
